@@ -9,13 +9,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.unan.tec.appseguridad.MainActivity"
-    android:background="@drawable/primer"
+    android:background="@drawable/segundo"
     android:orientation="horizontal"
 
     >
 
     <ImageButton
-        android:id="@+id/sig"
+        android:id="@+id/sigg"
         android:background="@drawable/siguiente"
         android:layout_width="130px"
         android:layout_height="130px"
